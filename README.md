@@ -14,8 +14,8 @@ Models:
 * LightGBM
 * XGBoost
 
-# The Scenario of Project
+### The Scenario of Project
 We have been asked to build a model which we need to determine have diabetes or not for patients who come to the hospital.
 
-# Dataset
+### Dataset
 diabetes.csv(You can find in Diabetes-Detection-System Repository)
